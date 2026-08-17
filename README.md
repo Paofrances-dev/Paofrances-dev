@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome]! 👋
+# Olá, sou Pedro Antônio! 👋
 
 Estudante do 2º ano do Ensino Médio Técnico em **Desenvolvimento de Sistemas / Internet**. Apaixonado por transformar ideias em código e sempre em busca de aprender novas tecnologias.
 
